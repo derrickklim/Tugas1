@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Personal Bootstrap Template</title>
+  <title>Tugas 1</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -77,12 +77,12 @@
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3>College Student</h3>
           <p class="fst-italic">
-            Saya adalah seorang mahasiswa dari Universitas Pelita Harapan (UPH) Medan
+            Saya adalah seorang mahasiswa dari Universitas Pelita Harapan (UPH) Medan.
           </p>
           <div class="row">
             <div class="col-lg-6">
               <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>3 March 2002</span></li>
+                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>3 Maret 2002</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>08123456789</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Medan, Sumatera Utara</span></li>
               </ul>
@@ -114,7 +114,7 @@
           <h3 class="resume-title">Sumary</h3>
           <div class="resume-item pb-0">
             <h4>Derrick Devin Lim</h4>
-            <p><em>Seorang mahasiswa dari Universitas Pelita Harapan Medan. Saya mengambil jurusan Sistem Informasi.</em></p>
+            <p><em>Seorang mahasiswa dari Universitas Pelita Harapan Medan dengan jurusan Sistem Informasi.</em></p>
             <p>
             <ul>
               <li>Medan, Sumatera Utara</li>
@@ -133,7 +133,7 @@
           <div class="resume-item">
             <h4>Bachelor of Information System</h4>
             <h5>2020 - present</h5>
-            <p><em>Universitas Pelita Harapan</em></p>
+            <p><em>Universitas Pelita Harapan Medan</em></p>
           </div>
         </div>
         </div>
@@ -179,14 +179,6 @@
 
     </div>
   </section><!-- End Contact Section -->
-
-  <div class="credits">
-    <!-- All the links in the footer should remain intact. -->
-    <!-- You can delete the links only if you purchased the pro version. -->
-    <!-- Licensing information: https://bootstrapmade.com/license/ -->
-    <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/personal-free-resume-bootstrap-template/ -->
-    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-  </div>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
